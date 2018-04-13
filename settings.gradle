@@ -1,2 +1,2 @@
-include ':SeekArc_library', ':library', ':sample' , ':SeekArc_sample'
+include ':library', ':sample'
 
