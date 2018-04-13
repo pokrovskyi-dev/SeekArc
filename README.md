@@ -1,3 +1,25 @@
+minSdkVersion - 17
+
+```groovy
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+```groovy
+dependencies {
+    compile 'com.github.pokrovskyi-dev:SeekArc:v1.1-01'
+}
+```
+
+[v1.1-01 Javadoc](https://jitpack.io/com/github/pokrovskyi-dev/SeekArc/v0.0.10/javadoc/)
+
+```groovy
+
+ORIGINAL:
+
+
 SeekArc
 =======
 
