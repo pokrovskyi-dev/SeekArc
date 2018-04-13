@@ -13,7 +13,7 @@ dependencies {
 }
 ```
 
-[v1.1-01 Javadoc](https://jitpack.io/com/github/pokrovskyi-dev/SeekArc/v0.0.10/javadoc/)
+[v1.1-01 Javadoc](https://jitpack.io/com/github/pokrovskyi-dev/SeekArc/v1.1-01/javadoc/)
 
 ```groovy
 
