@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   The MIT License (MIT)
   
@@ -26,9 +27,9 @@
     <style name="SeekArc">
         <item name="arcColor">@color/progress_gray_dark</item>
     </style>
-    
+
     <style name="SeekArcLight">
         <item name="arcColor">@color/progress_gray</item>
     </style>
- 
+
 </resources>
